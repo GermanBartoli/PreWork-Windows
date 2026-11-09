@@ -29,7 +29,7 @@ Este repositorio conserva ejercicios y versiones de su etapa de estudio. Revisá
 #
 ![image](https://user-images.githubusercontent.com/53313625/175976678-5336cb40-6320-4c1e-a6b7-68606fb0c5ca.png)
 
-![image](https://user-images.githubusercontent.com/53313625/175976756-7caedc27-83b2-4ab0-a09e-755f13da735c.png)
+*La captura histórica alojada externamente no está disponible. La guía visual de arriba resume los pasos de uso.*
 
 ![image](https://user-images.githubusercontent.com/53313625/175981619-54e8c038-1064-433c-b8f3-317e07785723.png)
 
