@@ -1,6 +1,27 @@
-# Getting Started with Create React App
+# Prework en Windows · React
 
-# Imagenes 
+**Entorno de práctica con una aplicación Create React App en `Test-React/`, material del curso y capturas originales.**
+
+[![Repositorio](https://img.shields.io/badge/GitHub-GermanBartoli-181717?logo=github)](https://github.com/GermanBartoli/PreWork-Windows)
+[![Verificaciones](https://github.com/GermanBartoli/PreWork-Windows/actions/workflows/codeql.yml/badge.svg)](https://github.com/GermanBartoli/PreWork-Windows/actions/workflows/codeql.yml)
+
+[Empezar](#primeros-pasos) · [Mapa del repositorio](#mapa-del-repositorio) · [Autoría](#autoría-de-esta-documentación)
+
+![Guía visual: Prework en Windows · React](docs/readme/guia.svg)
+
+*Esquema de orientación; no representa una captura de la aplicación.*
+
+## Primeros pasos
+
+1. Entrá en `Test-React/` e instalá las dependencias con `npm ci`.
+2. Ejecutá `npm start` y abrí la dirección que indique la terminal.
+3. Usá `npm test` para las pruebas del proyecto y `npm run build` para generar la distribución.
+
+## Entorno de aprendizaje
+
+Este repositorio conserva ejercicios y versiones de su etapa de estudio. Revisá los archivos de proyecto para preparar el SDK, runtime o servidor correspondiente; esta actualización del README no migra dependencias ni acredita una ejecución reciente de todos los ejemplos.
+
+## Imagenes
 
 ![image](https://user-images.githubusercontent.com/53313625/176021399-f09e66ca-b902-43d2-9c68-f8321a93c734.png)
 
@@ -11,7 +32,6 @@
 ![image](https://user-images.githubusercontent.com/53313625/175976756-7caedc27-83b2-4ab0-a09e-755f13da735c.png)
 
 ![image](https://user-images.githubusercontent.com/53313625/175981619-54e8c038-1064-433c-b8f3-317e07785723.png)
-
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -81,3 +101,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Mapa del repositorio
+
+- [Test-React/package.json](<Test-React/package.json>)
+- [Test-React/public/index.html](<Test-React/public/index.html>)
+
+## Autoría de esta documentación
+
+Repositorio mantenido por [Germán Bartoli](https://github.com/GermanBartoli). Guía revisada y actualizada con **Codex**, coautor de esta actualización documental. Los autores, colaboradores, licencias y recursos de terceros conservan sus créditos originales.
+
+Los commits de esta revisión incluyen `Co-authored-by: Codex <noreply@openai.com>`; esta atribución no modifica la autoría del historial anterior.
